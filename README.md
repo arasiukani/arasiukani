@@ -8,7 +8,7 @@
 
 - 🌐 Exploring **the endless possibilities of tech**
 
-- 🎓 I’m Currently learning **Java, Spring Boot, JSP and MySQL**
+- 🎓 I’m Currently learning **DSA, Java, Spring Boot, JSP ,Servlet and MySQL**
 
 - ⚡ Fun fact : **Coding is not just work — it’s fun, puzzles, and creativity in one!**
 
