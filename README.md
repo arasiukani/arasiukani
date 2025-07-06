@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arasi Ukani</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/trwMzHIDQlQAAAAi/hack-hacking.gif"><br><br>
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif"><br><br>
 
 - 🔭 I’m Currently working on **Java-based projects to build real-world applications**
 
